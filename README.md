@@ -1,5 +1,5 @@
-💫 About Me
-👋 Hi, I'm Himaja Dudhal, a Master’s student in Information Technology at Arizona State University (GPA: 4.0/4.0). I am passionate about Data Engineering, Machine Learning, and Blockchain Technology and currently seeking Software Engineering internship opportunities.
+#💫 About Me
+#👋 Hi, I'm Himaja Dudhal, a Master’s student in Information Technology at Arizona State University (GPA: 4.0/4.0). I am passionate about Data Engineering, Machine Learning, and Blockchain Technology and currently seeking Software Engineering internship opportunities.
 
 🚀 Skills
 Languages: Java, Python, C/C++, SQL, JavaScript, PHP, HTML/CSS, OOP
