@@ -1,5 +1,75 @@
-# 💫 About Me:
-👋 Hi, I'm Himaja Dudhal<br>🎓 Master's student in Information Technology at Arizona State University (GPA: 4.0/4.0)<br>💻 Passionate about Data Engineering, Machine Learning, and Blockchain Technology<br>🔍 Looking for Software Engineering internship opportunities<br>🚀 Skills<br><br>Languages: Java, Python, C/C++, SQL, JavaScript, PHP, HTML/CSS, OOPS<br>Frameworks: React, Node.js, Flask, WordPress, FastAPI<br>Developer Tools: Git, Docker, Google Cloud Platform, VS Code, Visual Studio, PyCharm, Eclipse<br>Libraries: pandas, NumPy, Matplotlib, BeautifulSoup, ReactJS, Bootstrap<br><br>💼 Experience<br>Data Engineering Intern - Agropeeper Technologies<br><br>Developed AI-powered thermal imaging system using Python, OpenCV, and TensorFlow<br>Improved defect detection accuracy by 25% across 10,000+ fruit samples<br>Automated data preprocessing pipelines, reducing model training time by 35%<br>Engineered data privacy framework ensuring GDPR compliance for 50,000+ farmer records<br><br>Information Systems Intern - Dezignolics<br><br>Developed data management systems using SQL and Python<br>Collaborated on data analysis and reporting projects<br>Experience in database management and data visualization<br><br>🛠️ Projects<br>Land Registration System using Blockchain<br><br>Designed a property transaction platform using Ethereum and Solidity<br>Technologies: Ganache, Web3Dart, IPFS, Metamask<br><br>Rock VS Mine Prediction<br><br>Experimented with various ML algorithms including KNN, Neural Networks, Naïve Bayes<br>Implemented Logistic Regression, Decision Trees, AdaBoost, and Random Forest models<br><br>Data Scraping using BeautifulSoup<br><br>Increased data extraction efficiency by 10x using Python and BeautifulSoup<br>Reduced task completion time by 60%<br><br>📚 Education<br><br>Master of Information Technology - Arizona State University (2024-2025)<br>Bachelor of Information Technology - University of Mumbai (2020-2023), GPA: 3.92/4.0<br><br>📝 Publications<br><br>"Implementing Blockchain in Land Registry" - ICMIR-2023, SYBGEN Learning India Pvt. Ltd.<br><br>🏆 Leadership<br>Vice President - Information Technology Students Association (ITSA)<br><br>Managed ITSA activities, events, and meetings<br>Facilitated communication between students, faculty, and industry professionals<br>Supported recruitment and budget management<br><br>📫 Connect with me<br><br>LinkedIn: Himaja Dudhal<br>Email: hdudhal@su.edu<br><br><br>⭐️ From Himaja Dudhal
+## Hi there 👋
+
+Welcome to my GitHub profile!  
+I am a **Master’s student in Information Technology** at **Arizona State University**, with a perfect GPA of **4.0/4.0**. I am passionate about **Data Engineering, Machine Learning**, and **Blockchain Technology**, and I am actively looking for **Software Engineering internship opportunities**.
+
+---
+
+## 🚀 Key Projects
+
+### 1. **AI-Powered Thermal Imaging System**
+- Developed an **AI-based thermal imaging system** using **Python**, **OpenCV**, and **TensorFlow**, improving defect detection accuracy by 25% across **10,000+ fruit samples**.
+- Automated data preprocessing pipelines, reducing model training time by **35%**.
+
+### 2. **Blockchain-Based Land Registration System**
+- Designed a **property transaction platform** on **Ethereum** using **Solidity**.
+- Utilized technologies such as **Ganache**, **Web3Dart**, **IPFS**, and **Metamask** for secure and decentralized transactions.
+
+### 3. **Rock vs Mine Prediction**
+- Experimented with various ML algorithms like **KNN**, **Neural Networks**, and **Naïve Bayes**.
+- Implemented models like **Logistic Regression**, **Decision Trees**, **AdaBoost**, and **Random Forest** to achieve high prediction accuracy.
+
+### 4. **Data Scraping using BeautifulSoup**
+- Built a web-scraping system using **Python** and **BeautifulSoup**, increasing data extraction efficiency by **10x**.
+- Reduced task completion time by **60%** for large-scale data extraction projects.
+
+---
+
+## 💼 Professional Experience
+
+### **Data Engineering Intern at Agropeeper Technologies**
+- Developed an AI-powered **thermal imaging system** to improve defect detection.
+- Automated data pipelines, reducing model training time by **35%**.
+- Engineered a **GDPR-compliant data privacy framework** for 50,000+ farmer records.
+
+### **Information Systems Intern at Dezignolics**
+- Developed **data management systems** using SQL and Python.
+- Collaborated on **data analysis and reporting** projects.
+- Gained expertise in **database management** and **data visualization**.
+
+---
+
+## 🛠 Skills
+- **Languages**: Java, Python, C/C++, SQL, JavaScript, PHP, HTML/CSS, OOP  
+- **Frameworks**: React, Node.js, Flask, WordPress, FastAPI  
+- **Developer Tools**: Git, Docker, Google Cloud Platform, VS Code, Visual Studio, PyCharm, Eclipse  
+- **Libraries**: pandas, NumPy, Matplotlib, BeautifulSoup, ReactJS, Bootstrap  
+
+---
+
+## 📚 Education
+- **Master of Information Technology** - Arizona State University (2024-2025)  
+- **Bachelor of Information Technology** - University of Mumbai (2020-2023) - GPA: **3.92/4.0**
+
+---
+
+## 📝 Publications
+- **"Implementing Blockchain in Land Registry"** - ICMIR-2023, SYBGEN Learning India Pvt. Ltd.
+
+---
+
+## 🏆 Leadership
+- **Vice President** - Information Technology Students Association (ITSA)  
+  - Managed **ITSA activities, events, and meetings**.
+  - Facilitated communication between **students, faculty, and industry professionals**.
+  - Supported **recruitment and budget management**.
+
+---
+
+## 📫 Connect with Me
+- **LinkedIn**: [Himaja Dudhal](#)  
+- **Email**: hdudhal@su.edu
+
 
 
 # 💻 Tech Stack:
